@@ -59,5 +59,5 @@ local: git tag -d v1.7
 10)
 touch readme.txt
 git add readme.txt
-git commit -m "readmeadded"
+git commit -m "readme"
 git push
