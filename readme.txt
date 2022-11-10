@@ -1,6 +1,5 @@
 lab2
 ![githubphoto](https://user-images.githubusercontent.com/117825644/201161031-b1d3cd2f-e350-4d5b-afe9-fb02ba7e5a40.jpg)
-
 1)
 git init 
 git remote add origin https://github.com/salmaamabrouk/lab2
