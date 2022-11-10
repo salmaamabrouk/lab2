@@ -1,5 +1,5 @@
 lab2
-![github-octocat](https://user-images.githubusercontent.com/117825644/201159024-cc816b6e-0393-45d4-b6b8-526b6be7a083.png)
+![githubphoto](https://user-images.githubusercontent.com/117825644/201161031-b1d3cd2f-e350-4d5b-afe9-fb02ba7e5a40.jpg)
 
 1)
 git init 
